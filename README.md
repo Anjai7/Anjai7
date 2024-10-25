@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjai7
+- 👋 Hi, I’m Anjai
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning python, networking
 - 💞️ I’m looking to collaborate on Open Source Projects
