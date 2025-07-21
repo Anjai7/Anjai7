@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjai
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning python, networking, cybersecurity, linux 
+- 🌱 I’m currently learning python, networking, cybersecurity, linux
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Reach me on anjai0600@gmail.com
 - 😄 Pronouns: He/Him
