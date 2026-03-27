@@ -40,7 +40,7 @@ I'm a Computer Science student passionate about **cybersecurity**, **networking*
 
     ## 📊 GitHub Stats
 
-    ![Anjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjai7&show_icons=true&theme=dark&hide_border=true)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjai7&show_icons=true&theme=radical)
 
     ---
 
