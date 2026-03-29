@@ -25,11 +25,12 @@ I enjoy breaking things to understand how they work — then building them bette
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Anonymous P2P Chat](https://github.com/Anjai7/Anonymous_p2p_chaT) | Peer-to-peer anonymous chat application | JavaScript |
-| [Browser Agent](https://github.com/Anjai7/Browser-Agent) | AI-powered browser automation agent | TypeScript |
-| [Employee Dashboard](https://github.com/Anjai7/Employee_Dashboard) | Employee management dashboard | TypeScript |
+| [Anonymous P2P Chat](https://github.com/Anjai7/Anonymous_p2p_chaT) | Peer-to-peer anonymous chat application | JavaScript,webRTC |
+| [Browser Agent](https://github.com/Anjai7/Browser-Agent) | AI-powered browser automation agent | TypeScript,MCP |
+| [Employee Dashboard](https://github.com/Anjai7/Employee_Dashboard) | Employee management dashboard,automation | TypeScript,n8n |
 | [AFTP](https://github.com/Anjai7/AFTP) | Anonymous file transfer protocol | C |
-| [Computer Vision](https://github.com/Anjai7/Computer-vision) | Computer vision experiments | Python |
+| [Computer Vision](https://github.com/Anjai7/Computer-vision) | Computer vision experiments | Python,openCV,CUDA |
+| [Pentest Reports](https://github.com/Anjai7/pentest-reports) | Collection of penetration testing reports, CTF write-ups, and security research | Security, Pentesting |
 
 ---
 
