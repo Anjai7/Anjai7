@@ -47,16 +47,6 @@ Collection of penetration testing reports, CTF write-ups, and security documenta
 
 ---
 
-### Browser Agent
-
-AI-powered browser automation agent built using TypeScript and MCP.
-
-**Tech:** TypeScript, MCP, Automation
-
-🔗 https://github.com/Anjai7/Browser-Agent
-
----
-
 ### Anonymous P2P Chat
 
 Peer-to-peer anonymous chat application using WebRTC.
